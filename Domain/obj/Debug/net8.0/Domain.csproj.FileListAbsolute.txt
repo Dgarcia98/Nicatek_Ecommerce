@@ -1,0 +1,17 @@
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Personal\Desktop\Nicatek_Ecommerce\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Personal\AppData\Local\Temp\claude\verif\Debug\net8.0\Domain.deps.json
+C:\Users\Personal\AppData\Local\Temp\claude\verif\Debug\net8.0\Domain.dll
+C:\Users\Personal\AppData\Local\Temp\claude\verif\Debug\net8.0\Domain.pdb
+C:\Users\Personal\AppData\Local\Temp\claude\c--Users-Personal-Desktop-EcommerceNic-MOVIL-EcommerceNic\145554c1-d24e-4ab1-9854-7859095a641f\scratchpad\bc2\Debug\net8.0\Domain.deps.json
+C:\Users\Personal\AppData\Local\Temp\claude\c--Users-Personal-Desktop-EcommerceNic-MOVIL-EcommerceNic\145554c1-d24e-4ab1-9854-7859095a641f\scratchpad\bc2\Debug\net8.0\Domain.dll
+C:\Users\Personal\AppData\Local\Temp\claude\c--Users-Personal-Desktop-EcommerceNic-MOVIL-EcommerceNic\145554c1-d24e-4ab1-9854-7859095a641f\scratchpad\bc2\Debug\net8.0\Domain.pdb
