@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {
       "Microsoft.AspNetCore.Authentication.JwtBearer/8.0.0": {
@@ -2338,23 +2338,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Personal\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Personal\\Desktop\\Nicatek_Ecommerce\\Presentacion\\Presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Nicatek_Ecommerce\\Presentacion\\Presentacion.csproj",
       "projectName": "Presentacion",
-      "projectPath": "C:\\Users\\Personal\\Desktop\\Nicatek_Ecommerce\\Presentacion\\Presentacion.csproj",
-      "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Personal\\Desktop\\Nicatek_Ecommerce\\Presentacion\\obj\\",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Nicatek_Ecommerce\\Presentacion\\Presentacion.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Nicatek_Ecommerce\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2368,13 +2368,14 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Personal\\Desktop\\Nicatek_Ecommerce\\Aplication\\Aplication.csproj": {
-              "projectPath": "C:\\Users\\Personal\\Desktop\\Nicatek_Ecommerce\\Aplication\\Aplication.csproj"
+            "C:\\Users\\user\\Documents\\GitHub\\Nicatek_Ecommerce\\Aplication\\Aplication.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Nicatek_Ecommerce\\Aplication\\Aplication.csproj"
             },
-            "C:\\Users\\Personal\\Desktop\\Nicatek_Ecommerce\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\Personal\\Desktop\\Nicatek_Ecommerce\\Infraestructure\\Infraestructure.csproj"
+            "C:\\Users\\user\\Documents\\GitHub\\Nicatek_Ecommerce\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Nicatek_Ecommerce\\Infraestructure\\Infraestructure.csproj"
             }
           }
         }
@@ -2389,10 +2390,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
@@ -2431,7 +2433,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
